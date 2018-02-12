@@ -27,6 +27,9 @@ li a {
 li a:hover {
     background-color: #111;
 }
+ul a:hover {
+    background-color: grey;
+}
 h1{
     color:white;
 }
@@ -58,4 +61,12 @@ p{
     right: 500px;
     color:white;
     padding-top: 10px;
+}
+
+
+a{
+    color: #ff33cc;
+}
+a:hover{
+    color: blue;
 }
